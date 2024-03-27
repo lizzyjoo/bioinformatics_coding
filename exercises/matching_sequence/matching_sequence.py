@@ -2,6 +2,7 @@
 # Input: Strings Text and Pattern. The data set contains two lines.
 # Output: Count(Text, Pattern).
 # two strategies
+# can be used to identify the number of occurences of a target DNA sequence in a large sequence 
 
 def main():
     lines = []
